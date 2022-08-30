@@ -10,6 +10,7 @@
 
 import os
 import sys
+from io import open
 from setuptools import setup
 
 __version__ = None
